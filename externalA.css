@@ -1,0 +1,27 @@
+
+body 
+{ 
+    background-image: url('/Users/kurakulaenus/Languages/All In One/New-Project-99.jpg');
+       background-repeat: no-repeat;
+       background-position: center;
+       margin: 50px;
+       background-attachment: fixed;
+       background-size: cover;
+} 
+       /* Image will not scroll or rest of the page scroll. If you want to scroll replace fixed
+background:url(/Users/kurakulaenus/Downloads/New-Project-99.jpg) no-repeat fixed center auto */
+
+    h1{text-align: center;}
+
+    h2 {color:yellow}
+
+    h3 { color:red;}
+
+    pre{font-family: courier;
+        text-align:left;
+        font-size:10px;}
+
+    div {color:green;
+         border: solid;
+        border-width:10px;}
+
